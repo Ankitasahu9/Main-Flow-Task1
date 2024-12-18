@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 # Load the uploaded CSV file to examine its structure and contents
-file_path = '/mnt/data/USvideos.csv'
+
 data = pd.read_csv("D:\\DataFilesPython\\MainFlow Dataset\\USvideos.csv")
 
 # Display the first few rows and summary information about the dataset
